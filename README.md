@@ -2,6 +2,8 @@
 
 深色半透明主题 + Bloom 辉光 + 光标拖影特效，基于 JetBrainsMono Nerd Font。
 
+![Ghostty 终端截图](screen.png)
+
 ## 安装
 
 ### 1. 安装 Ghostty
