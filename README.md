@@ -67,8 +67,12 @@ git clone <本仓库地址> ~/.config/ghostty
 
 ## 着色器
 
-当前启用了 `bloom1`（辉光）、`cursor_blaze_no_trail`（光标闪烁）、`cursor_smear`（光标拖影）。
+当前启用的着色器：
+- `bloom060.glsl` - 辉光效果（强度 0.60）
+- `starfield-colors.glsl` - 彩色星空背景
+- `cursor_blaze_no_trail.glsl` - 光标闪烁效果
+- `cursor_smear.glsl` - 光标拖影效果
 
-`shaders/` 目录下还有 30+ 个可选着色器（CRT、矩阵雨、星空、烟花等），编辑 `config` 文件注释/取消注释对应行即可切换。
+`shaders/` 目录下还有 30+ 个可选着色器（CRT、矩阵雨、烟花等），编辑 `config` 文件注释/取消注释对应行即可切换。
 
 更多社区着色器：[ghostty-shaders](https://github.com/hackrmomo/ghostty-shaders)
